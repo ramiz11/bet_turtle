@@ -1,3 +1,3 @@
 # bet_turtle
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://giphy.com/gifs/baby-aww-race-U1fyQHIxT6IzS
