@@ -1,3 +1,3 @@
 # bet_turtle
 
-![](Bet_Turtle - README.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
