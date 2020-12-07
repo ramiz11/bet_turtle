@@ -1,6 +1,7 @@
 from turtle import *
 from random import randint
 from pathlib import Path
+import time
 
 chosen_turtle = ""  # the turtle which the user bets on
 bet_amount = 0  # the betting amount
@@ -226,6 +227,7 @@ def smiley(s: str) -> None:
         smiles.goto(0,50)
         smiles.pendown()
         smiles.circle(100,90)
+    time.sleep(4)
     clearscreen()
 
 
