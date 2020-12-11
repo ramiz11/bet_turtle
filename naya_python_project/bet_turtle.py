@@ -460,7 +460,7 @@ clearscreen()
 summary()
 # gives the user gifts after finishing playing
 message.write("your gifts are in the 'urls.txt' file\ntheir description is in the 'output.jsonl' file",move=False, align="center", font=("Arial",30, "normal",'bold','italic'))
-time.sleep(3)
+time.sleep(4.5)
 clearscreen()
 # product_data = []
 with open("urls.txt", 'r') as urllist:
