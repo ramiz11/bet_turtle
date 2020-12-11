@@ -115,6 +115,7 @@ def create_race(T:str) -> dict:
     move_turtle(passive_turtles,turtle_list[index_of_chosen_turtle],turtle_list)
     global finished_race_info  # i want to use the variable outside the method thus 'global'
     finished_race_info = list(zip(turtle_step_counter, turtle_names, turtle_colors))
+    time.sleep(2)
  #clear the screen from the prevoius race
     clearscreen()
 #return winner info
