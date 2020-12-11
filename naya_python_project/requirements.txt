@@ -1,6 +1,6 @@
 mixer==6.1.3
 playsound==1.2.2
-turtle 0.0.2
+turtle == 0.0.2
 selectorlib== 0.16.0
 requests== 2.25.0
 playsound== 1.2.2
